@@ -8,6 +8,8 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
+
+#Java unittest being check by jenkins. Fck yeah!
 public class TestGreeter {
 
   private Greeter greeter;
